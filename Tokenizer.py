@@ -1,1 +1,1 @@
-from nltk.tokenize import sent_tokenize
+from nltk.tokenize import word_tokenize, WordPunctTokenizer, sent_tokenize
